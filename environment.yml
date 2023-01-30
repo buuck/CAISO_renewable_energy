@@ -1,0 +1,8 @@
+name: caiso_analysis
+dependencies:
+  - pandas
+  - statsmodels
+  - numpy
+  - seaborn
+  - scikit-learn
+  - ipykernel
