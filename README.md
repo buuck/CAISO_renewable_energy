@@ -1,0 +1,1 @@
+Please see the Jupyter notebook for an analysis of a dataset of CAISO power delivered from 2021-2022.
