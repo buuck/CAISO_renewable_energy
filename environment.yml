@@ -6,3 +6,4 @@ dependencies:
   - seaborn
   - scikit-learn
   - ipykernel
+  - nbconvert
